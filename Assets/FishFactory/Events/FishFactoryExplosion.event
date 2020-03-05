@@ -23,7 +23,7 @@
 	<events>
 
 		<!-- Start -->
-		<event id="EVENT_FISH_FACTORY_01" timeout="200" cooldown="5000">
+		<event id="EVENT_FISH_FACTORY_01" timeout="200" cooldown="500">
 
 			<content header_key="#EVENT_FISH_FACTORY_01_NAME"
 			         desc_key="#EVENT_FISH_FACTORY_01_DESC"
