@@ -1,11 +1,11 @@
 id,English,France,German,Spanish,Portuguese,Russian,Polish,Chinese
 #FISH_FACTORY,Fish Factory,Fish Factory,Fish Factory,Fish Factory,Fish Factory,Fish Factory,Fish Factory,Fish Factory
 #DESC_FISH_FACTORY,Creates fermented fish meals,Creates fermented fish meals,Creates fermented fish meals,Creates fermented fish meals,Creates fermented fish meals,Creates fermented fish meals,Creates fermented fish meals,Creates fermented fish meals,
-#EVENT_FISH_FACTORY_01_NAME,FISH FACTORY EVENT NAME,,,,,,,
-#EVENT_FISH_FACTORY_01_DESC,FISH FACTORY EVENT DESC,,,,,,,
-#EVENT_FISH_FACTORY_01_NOTIFICATION_HEADER,FISH FACTORY EVENT NOTIFICATION HEADER,,,,,,,
-#EVENT_FISH_FACTORY_01_NOTIFICATION_DESC,FISH FACTORY EVENT NOTIFICATION DESC,,,,,,,
+#EVENT_FISH_FACTORY_01_NAME,A fishy EVENT,,,,,,,
+#EVENT_FISH_FACTORY_01_DESC,Something fishy is about to happen,,,,,,,
+#EVENT_FISH_FACTORY_01_NOTIFICATION_HEADER,Something fishy this way comes,,,,,,,
+#EVENT_FISH_FACTORY_01_NOTIFICATION_DESC,"It is raining fish! That's what you get for fermenting with nuclear waste...",,,,,,,
 #EVENT_FISH_FACTORY_01_RESULT_OK,FISH FACTORY EVENT RESULT-OK,,,,,,,
 #EVENT_FISH_FACTORY_01_RESULT_OK_NAME,FISH FACTORY EVENT RESULT-OK NAME,,,,,,,
 #EVENT_FISH_FACTORY_01_RESULT_OK_DESC,FISH FACTORY EVENT RESULT-OK DESC,,,,,,,
-#EVENT_DONE,YOU've SURVICED the FISH FACTORY EVENT,,,,,,,
+#EVENT_ALLDONE,Event is over,,,,,,,
