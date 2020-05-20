@@ -18,7 +18,7 @@
 
 	<!-- Start -->
 	<event id="EVENT_FISH_FACTORY_01" timeout="200" cooldown="500">
-		<content header_key="#EVENT_FISH_FACTORY_01_NAME" desc_key="#EVENT_FISH_FACTORY_01_DESC" image_name="Event_Survivors2" soundevent_id="Merchant" notification_header_key="#EVENT_FISH_FACTORY_01_NOTIFICATION_HEADER" notification_desc_key="#EVENT_FISH_FACTORY_01_NOTIFICATION_DESC" visual_object_type="Single" />
+		<content header_key="#EVENT_FISH_FACTORY_01_NAME" desc_key="#EVENT_FISH_FACTORY_01_DESC" image_name="Event_Building1" soundevent_id="Merchant" notification_header_key="#EVENT_FISH_FACTORY_01_NOTIFICATION_HEADER" notification_desc_key="#EVENT_FISH_FACTORY_01_NOTIFICATION_DESC" visual_object_type="Single" />
 		<trigger type="DaysPassed" min="1" max="999" />
 		<trigger type="TimeOfDay" min="0" max="0.8" />
 		<!-- Midnight: 0.5, Midday: 0, Dawn: 0.66, Dusk: 0.33 -->
