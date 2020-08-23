@@ -2,7 +2,7 @@ id,English,France,German,Spanish,Portuguese,Russian,Polish,Chinese
 #FISH_FACTORY,Fish Factory,Fish Factory,Fish Factory,Fish Factory,Fish Factory,Fish Factory,Fish Factory,Fish Factory
 #DESC_FISH_FACTORY,Creates fermented fish meals,Creates fermented fish meals,Creates fermented fish meals,Creates fermented fish meals,Creates fermented fish meals,Creates fermented fish meals,Creates fermented fish meals,Creates fermented fish meals,
 #EVENT_FISH_FACTORY_01_NAME,A fishy EVENT,,,,,,,
-#EVENT_FISH_FACTORY_01_DESC,Something fishy is about to happen,,,,,,,
+#EVENT_FISH_FACTORY_01_DESC,"What the fish is happening?",,,,,,,
 #EVENT_FISH_FACTORY_01_NOTIFICATION_HEADER,Whut HEADER,,,,,,,
 #EVENT_FISH_FACTORY_01_NOTIFICATION_DESC,Whut DESC,,,,,,,
 #EVENT_FISH_FACTORY_01_RESULT_OK,FISH FACTORY EVENT RESULT-OK,,,,,,,
@@ -11,4 +11,4 @@ id,English,France,German,Spanish,Portuguese,Russian,Polish,Chinese
 #EVENT_ALLDONE,Event is over,,,,,,,
 #DISASTER_INFO_FISH_RAIN,"It is raining fish! That's what you get for fermenting with nuclear waste...",,,,,,,
 #DISASTER_TITLE_FISH_RAIN,Something fishy is about to happen,,,,,,,
-#NOTIFICATION_DISASTER_FISH_RAIN_INCOMING,Something fishy is about to happen,,,,,,,
+#NOTIFICATION_DISASTER_FISH_RAIN_INCOMING,Something disastrously fishy is about to happen,,,,,,,

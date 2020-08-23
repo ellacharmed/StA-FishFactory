@@ -25,3 +25,4 @@ MonoBehaviour:
   disasterMultiplier: 1
   recipes: []
   requireDeposits: 0
+  useProductionLimits: 1
