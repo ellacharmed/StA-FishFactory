@@ -9,5 +9,5 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   m_configObjects:
-    com.unity.addressableassets: {fileID: 11400000, guid: e105be969a2bf474d87024408acbf5c5,
+    com.unity.addressableassets: {fileID: 11400000, guid: 524c9f812fe4590469de9df99f03cbba,
       type: 2}
