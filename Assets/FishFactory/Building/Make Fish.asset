@@ -23,5 +23,24 @@ MonoBehaviour:
     value: 4
   productionTime: 30
   disasterMultiplier: 1
-  recipes: []
+  recipes:
+  - key: FermentedFish
+    input:
+    - type: {fileID: 11400000, guid: f9dd76d1691ba5541bfa960bd83ad3e9, type: 2}
+      value: 1
+    - type: {fileID: 11400000, guid: b4c50f89dc7a2b546b9546e6f868361b, type: 2}
+      value: 0
+    output:
+    - type: {fileID: 11400000, guid: 1b7f50697e79f974da2e20e7c34c358a, type: 2}
+      value: 4
+  - key: FermentedVenison
+    input:
+    - type: {fileID: 11400000, guid: 2618ddb316152144a9a60f20c4528cd2, type: 2}
+      value: 1
+    - type: {fileID: 11400000, guid: b4c50f89dc7a2b546b9546e6f868361b, type: 2}
+      value: 1
+    output:
+    - type: {fileID: 11400000, guid: 1b7f50697e79f974da2e20e7c34c358a, type: 2}
+      value: 5
   requireDeposits: 0
+  useProductionLimits: 0

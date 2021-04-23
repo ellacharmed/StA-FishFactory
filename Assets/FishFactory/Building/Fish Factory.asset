@@ -22,6 +22,10 @@ MonoBehaviour:
   includedInStatistics: 1
   showDetailsInTechInfo: 1
   priority: 99
+  activateSuitableOverlay: 1
+  activateAreaOfEffectOverlay: 1
+  overrideSuitableOverlay: 5
+  minimumGamePhase: 10
   buildResource: 0
   resources:
   - type: {fileID: 11400000, guid: 8058631756b98f04f9ece6f412144c3e, type: 2}
@@ -48,7 +52,7 @@ MonoBehaviour:
     brushVisual: {fileID: 1676370284329800940, guid: 4fe2f352649f54f4ea8d40de16fda8a4,
       type: 3}
     constructions:
-    - {fileID: 1676370284329800940, guid: eb1921f87b58dd041b8bcfaa7e286821, type: 3}
+    - {fileID: 100000, guid: e74d4e186f335f84ea12ff26df4cb7ba, type: 3}
     destructionModel: {fileID: 0}
   visualizationData:
     showDeposits: {fileID: 0}
@@ -222,14 +226,27 @@ MonoBehaviour:
         eventName: 
         eventParams: []
       soundEventDelay: 0
-    loopWorkingPath: 1
+    loopWorkingPath: 0
+  skipEntryPath: 0
   properties:
   - {fileID: 11400000, guid: 2d933c108e7c3b94ab8603f2f6c364c3, type: 2}
-  - {fileID: 11400000, guid: b5fdfbdd9eab007449f61adab40c76ab, type: 2}
+  indestructible: 1
+  damageMultiplier: 1
+  combatDamageMultiplier: 0.25
+  isAffectedByPollution: 0
+  isDisabledByPollution: 1
+  isDisabledByCold: 0
+  canReceiveHeat: 1
+  pollutionShielding: 0
+  pollutionResistance: 0
+  createPollution: 0
+  alwaysCreatePollution: 0
+  pollutionCreationRate: 0
   hideFunctionButtons: 0
   hideHealthElement: 0
   hideDescriptionElement: 1
   hideEfficiencyElement: 1
+  hideHealthBar: 0
   placement:
     tiles:
       x: 5
@@ -244,27 +261,30 @@ MonoBehaviour:
   onlyDrySoil: 0
   showRadius: 0
   showRadiusTileGrid: 0
+  useTileEfficiency: 0
   cellEfficiencyMode: 0
   useWorkAreaEfficiency: 1
   canEditWorkarea: 0
+  workAreaType: 0
   highlightDeposits: 0
+  highlightWaterConsumers: 0
+  highlightEnergyNodes: 0
   canResizeWorkarea: 0
   canEditStorage: 0
   targetEfficiency: 0.9
   isUnique: 0
   isRemovable: 1
-  indestructible: 0
-  damageMultiplier: 1
   restrictedPlacement: 0
   onlyDeepDeposits: 0
   restrictedPlacementPosition: {x: 0, y: 0}
   decalOverride: {fileID: 0}
   decalEnabled: 1
   workAreaRadius: 7
-  buildingDestoyedSoundEvent:
-    eventName: 
-    eventParams: []
-  buildingRunningSoundEvent:
-    eventName: 
-    eventParams: []
+  randomRotation: 0
+  buildingDestroyedSoundEvent: 
+  buildingRunningSoundEvent: 
+  buildingSelectedSoundEvent: 
   damageTargetTypes: 0
+  upgradeBuildingTemplate: {fileID: 0}
+  upgradeType: 0
+  isUpgrade: 0
