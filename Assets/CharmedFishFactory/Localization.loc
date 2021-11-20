@@ -1,0 +1,18 @@
+id,English,France,German,Spanish,Portuguese,Russian,Polish,Chinese
+#CHFISH_FACTORY,"Charmed Fish Factory","Charmed Fish Factory","Charmed Fish Factory","Charmed Fish Factory","Charmed Fish Factory","Charmed Fish Factory","Charmed Fish Factory","Charmed Fish Factory"
+#DESC_CHFISH_FACTORY,"Creates fermented fish or venison meals","Creates fermented fish or venison meals","Creates fermented fish or venison meals","Creates fermented fish or venison meals","Creates fermented fish or venison meals","Creates fermented fish or venison meals","Creates fermented fish or venison meals","Creates fermented fish or venison meals",
+#EVENT_CHFISH_FACTORY_01_NAME,"A fishy EVENT",,,,,,,
+#EVENT_CHFISH_FACTORY_01_DESC,"What the fish is happening?",,,,,,,
+#EVENT_CHFISH_FACTORY_01_NOTIFICATION_HEADER,"Whut HEADER",,,,,,,
+#EVENT_CHFISH_FACTORY_01_NOTIFICATION_DESC,"Whut DESC",,,,,,,
+#EVENT_CHFISH_FACTORY_01_RESULT_OK,"OK",,,,,,,
+#EVENT_CHFISH_FACTORY_01_RESULT_OK_NAME,"FISH FACTORY EVENT RESULT-OK NAME",,,,,,,
+#EVENT_CHFISH_FACTORY_01_RESULT_OK_DESC,"FISH FACTORY EVENT RESULT-OK DESC. Well, nothing actually happened as I removed the disaster pending further investigation. It didn't work right.",,,,,,,
+#EVENT_DONE,Event is over,,,,,,,
+#DISASTER_INFO_FISH_RAIN,"It is raining fish! That's what you get for fermenting with nuclear waste...",,,,,,,
+#DISASTER_TITLE_FISH_RAIN,"Something fishy is about to happen",,,,,,,
+#NOTIFICATION_DISASTER_FISH_RAIN_INCOMING,"Something disastrously fishy is about to happen",,,,,,,
+#RECIPE_FermentedFish,"Fermented Fish",,,,,,,
+#RECIPE_FermentedFish_DESC,"Creates fermented fish meals",,,,,,,
+#RECIPE_FermentedVenison,"Fermented Venison",,,,,,,
+#RECIPE_FermentedVenison_DESC,"Creates Fermented venison meals",,,,,,,
